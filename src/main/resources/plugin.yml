@@ -1,0 +1,10 @@
+name: WebRPC
+version: ${project.version}
+main: com.moraisandreua.webrpc.WebRPC
+api-version: 1.17
+authors: [ moraisandre ]
+description: WebRPC is a plugin to send commands directly from browser into minecraft server. Allows to create web marketplaces, user management, cli replication.
+website: https://github.com/moraisandreua
+commands:
+  webrpc:
+    description: 'Let you see the admin access token'
