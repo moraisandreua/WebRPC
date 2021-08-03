@@ -6,10 +6,11 @@ Be careful, anyone with the token can manage your server.
 Set your own accessToken.
 
 ## Installation:
-Just put the .jar file into plugins folder
-Run the server once
-Change the default access token in config.yml
-You're ready.
+
+1. Just put the .jar file into plugins folder
+2. Run the server once
+3. Change the default access token in config.yml
+4. You're ready.
 
 ## Commands:
 
